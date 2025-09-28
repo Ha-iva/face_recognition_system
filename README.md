@@ -41,24 +41,10 @@ Here’s how it works in plain terms:
 </table>
 
 
-<table>
-  <tr>
-    <th>Input Video</th>
-    <th>Output Video</th>
-  </tr>
-  <tr>
-    <td>
-      <video width="300" controls>
-        <source src="Videos/example/input.mp4" type="video/mp4">
-      </video>
-    </td>
-    <td>
-      <video width="300" controls>
-        <source src="Videos/example/output.mp4" type="video/mp4">
-      </video>
-    </td>
-  </tr>
-</table>
+| Input Video | Output Video |
+|-------------|--------------|
+| [![Input Video](Videos/example/input.png)](Videos/example/input.mp4) | [![Output Video](Videos/example/output.png)](Videos/example/output.mp4) |
+
 
 
 
